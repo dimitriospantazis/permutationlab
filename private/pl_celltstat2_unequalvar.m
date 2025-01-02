@@ -5,7 +5,7 @@ function [t] = pl_cell_tstat2_unequalvar(Cell1,Cell2)
 
 % This function is part of the permutationlab software:
 % Author: Dimitrios Pantazis
-% The code is currently under development, please do not share
+% The code is provided "as is," without any guarantees or warranties, and is available for unrestricted use.
 
 
 N1 = length(Cell1);

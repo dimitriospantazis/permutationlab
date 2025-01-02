@@ -4,7 +4,7 @@ function Cell_slice = pl_cell_slice(Cell,ndx)
 
 % This function is part of the permutationlab software:
 % Author: Dimitrios Pantazis
-% The code is currently under development, please do not share
+% The code is provided "as is," without any guarantees or warranties, and is available for unrestricted use.
 
 N = length(Cell);
 
